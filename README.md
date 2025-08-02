@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0851-goat-latin](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0851-goat-latin) |
 ## Stack
 |  |
 | ------- |
