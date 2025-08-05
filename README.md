@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0851-goat-latin](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0851-goat-latin) |
@@ -18,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
