@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0851-goat-latin](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0851-goat-latin) |
 ## Stack
 |  |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0474-ones-and-zeroes](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Xiaoha-cloud/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0474-ones-and-zeroes](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
 | ------- |
