@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Xiaoha-cloud/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
