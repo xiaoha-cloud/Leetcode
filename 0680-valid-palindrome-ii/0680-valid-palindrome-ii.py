@@ -1,5 +1,7 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool: 
+        # O(n）~ O(n*2）
+        # O(1）
         l,r = 0,len(s)-1
         while l<r:
             if s[l]!= s[r]:
