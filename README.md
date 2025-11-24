@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0125-valid-palindrome](https://github.com/xiaoha-cloud/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/xiaoha-cloud/Leetcode/tree/master/0344-reverse-string) |
@@ -92,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/xiaoha-cloud/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/xiaoha-cloud/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
