@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/xiaoha-cloud/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/xiaoha-cloud/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
 | [0474-ones-and-zeroes](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1929-concatenation-of-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/xiaoha-cloud/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/xiaoha-cloud/Leetcode/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
