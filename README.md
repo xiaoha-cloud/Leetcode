@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/xiaoha-cloud/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/xiaoha-cloud/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/xiaoha-cloud/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/xiaoha-cloud/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/xiaoha-cloud/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/xiaoha-cloud/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/xiaoha-cloud/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
