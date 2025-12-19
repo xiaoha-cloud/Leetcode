@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/xiaoha-cloud/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xiaoha-cloud/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/xiaoha-cloud/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/xiaoha-cloud/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xiaoha-cloud/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/xiaoha-cloud/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/xiaoha-cloud/Leetcode/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xiaoha-cloud/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
