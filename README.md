@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/xiaoha-cloud/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xiaoha-cloud/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/xiaoha-cloud/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/xiaoha-cloud/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/xiaoha-cloud/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xiaoha-cloud/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/xiaoha-cloud/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/xiaoha-cloud/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xiaoha-cloud/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/xiaoha-cloud/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
