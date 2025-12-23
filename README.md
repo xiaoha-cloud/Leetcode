@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/xiaoha-cloud/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/xiaoha-cloud/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xiaoha-cloud/Leetcode/tree/master/0049-group-anagrams) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/xiaoha-cloud/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/0088-merge-sorted-array) |
