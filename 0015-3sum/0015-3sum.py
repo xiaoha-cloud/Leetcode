@@ -1,36 +1,27 @@
-from typing import List
-
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
+        res = []
         nums.sort()
-        result = []
 
-        def twoSum(start: int, target: int) -> List[List[int]]:
-            res = []
-            left, right = start, len(nums) - 1
-            while left < right:
-                cur_sum = nums[left] + nums[right]
-                if cur_sum < target:
-                    left += 1
-                elif cur_sum > target:
-                    right -= 1
-                else:
-                    res.append([nums[left], nums[right]])
-                    while left < right and nums[left] == nums[left + 1]:
-                        left += 1
-                    while left < right and nums[right] == nums[right - 1]:
-                        right -= 1
-                    left += 1
-                    right -= 1
-            return res
+        for i, a in enumerate(nums):
+            if a > 0:
+                break
 
-        for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i - 1]:
+            if i > 0 and a == nums[i - 1]:
                 continue
 
-            target = -nums[i]
-            pairs = twoSum(i + 1, target)
-            for pair in pairs:
-                result.append([nums[i]] + pair)
+            l, r = i + 1, len(nums) - 1
+            while l < r:
+                threeSum = a + nums[l] + nums[r]
+                if threeSum > 0:
+                    r -= 1
+                elif threeSum < 0:
+                    l += 1
+                else:
+                    res.append([a, nums[l], nums[r]])
+                    l += 1
+                    r -= 1
+                    while nums[l] == nums[l - 1] and l < r:
+                        l += 1
 
-        return result
+        return res
