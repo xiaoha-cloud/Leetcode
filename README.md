@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/xiaoha-cloud/Leetcode/tree/master/0344-reverse-string) |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0424-longest-repeating-character-replacement](https://github.com/xiaoha-cloud/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/xiaoha-cloud/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/xiaoha-cloud/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/xiaoha-cloud/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xiaoha-cloud/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/xiaoha-cloud/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/xiaoha-cloud/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/xiaoha-cloud/Leetcode/tree/master/0706-design-hashmap) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/xiaoha-cloud/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/xiaoha-cloud/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Backtracking
 |  |
