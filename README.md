@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/xiaoha-cloud/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/xiaoha-cloud/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/xiaoha-cloud/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0682-baseball-game](https://github.com/xiaoha-cloud/Leetcode/tree/master/0682-baseball-game) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/xiaoha-cloud/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/xiaoha-cloud/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xiaoha-cloud/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0706-design-hashmap](https://github.com/xiaoha-cloud/Leetcode/tree/master/0706-design-hashmap) |
