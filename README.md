@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/xiaoha-cloud/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/xiaoha-cloud/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0851-goat-latin](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0851-goat-latin) |
+| [0981-time-based-key-value-store](https://github.com/xiaoha-cloud/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/xiaoha-cloud/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/xiaoha-cloud/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/xiaoha-cloud/Leetcode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/xiaoha-cloud/Leetcode/tree/master/0706-design-hashmap) |
+| [0981-time-based-key-value-store](https://github.com/xiaoha-cloud/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Xiaoha-cloud/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/xiaoha-cloud/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0706-design-hashmap](https://github.com/xiaoha-cloud/Leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/xiaoha-cloud/Leetcode/tree/master/0901-online-stock-span) |
+| [0981-time-based-key-value-store](https://github.com/xiaoha-cloud/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Hash Function
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/xiaoha-cloud/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/xiaoha-cloud/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/xiaoha-cloud/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/xiaoha-cloud/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xiaoha-cloud/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
