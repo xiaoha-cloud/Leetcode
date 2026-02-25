@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xiaoha-cloud/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
 ## Tree
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xiaoha-cloud/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/xiaoha-cloud/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/xiaoha-cloud/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
