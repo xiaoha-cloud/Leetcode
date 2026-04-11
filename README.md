@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/xiaoha-cloud/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0388-longest-absolute-file-path](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/xiaoha-cloud/Leetcode/tree/master/0394-decode-string) |
+| [0654-maximum-binary-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/xiaoha-cloud/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/xiaoha-cloud/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/xiaoha-cloud/Leetcode/tree/master/0739-daily-temperatures) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/xiaoha-cloud/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/xiaoha-cloud/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Table
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xiaoha-cloud/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/xiaoha-cloud/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0654-maximum-binary-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/xiaoha-cloud/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/xiaoha-cloud/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/xiaoha-cloud/Leetcode/tree/master/0704-binary-search) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/xiaoha-cloud/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/xiaoha-cloud/Leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/xiaoha-cloud/Leetcode/tree/master/0901-online-stock-span) |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/xiaoha-cloud/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/xiaoha-cloud/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/xiaoha-cloud/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Counting
 |  |
 | ------- |
