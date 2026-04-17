@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiaoha-cloud/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0474-ones-and-zeroes](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/xiaoha-cloud/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/xiaoha-cloud/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/xiaoha-cloud/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/xiaoha-cloud/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xiaoha-cloud/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/xiaoha-cloud/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Xiaoha-cloud/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
