@@ -7,15 +7,9 @@ class Solution:
         # return the result
         # O(n）T
         # O(1) S
-        l=0
-        win_sum=0
-        result=float('-inf')
-
-        for r in range(len(nums)):
-            win_sum+=nums[r]
-            while r-l+1>k:
-                win_sum-=nums[l]
-                l+=1
-            if r-l+1==k:
-                result=max(result,win_sum)
-        return result/k
+        win_sum=sum(nums[:k])
+        best=win_sum
+        for r in range(k,len(nums)):
+            win_sum += nums[r] - nums[r-k]
+            best = max(best,win_sum)
+        return best/k
