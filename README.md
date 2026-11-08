@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/xiaoha-cloud/Leetcode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/xiaoha-cloud/Leetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/xiaoha-cloud/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xiaoha-cloud/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Xiaoha-cloud/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xiaoha-cloud/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/xiaoha-cloud/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/xiaoha-cloud/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xiaoha-cloud/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/xiaoha-cloud/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1929-concatenation-of-array](https://github.com/xiaoha-cloud/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/xiaoha-cloud/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/xiaoha-cloud/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Xiaoha-cloud/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
