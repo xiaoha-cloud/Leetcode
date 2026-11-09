@@ -1,5 +1,6 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        
         char = set()
         l = 0
         max_len = 0
@@ -12,5 +13,3 @@ class Solution:
             max_len= max(max_len,r-l+1)
         return max_len
         
-
-            
